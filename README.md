@@ -10,11 +10,11 @@ HOST PC(CentOS)
   - Github source: detectron
 
 # 📚 Scenario & Function
-  database setup, connect, store
-  store image data in disk
-  interface with Users (with PyQT5)
-  customize detection inference code
-  output: cell sizes, cell quantity
+  - database setup, connect, store
+  - store image data in disk
+  - interface with Users (with PyQT5)
+  - customize detection inference code
+  - output: cell sizes, cell quantity
   
 🔥 Steps(Refer)
 
