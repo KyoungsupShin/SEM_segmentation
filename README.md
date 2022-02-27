@@ -9,6 +9,14 @@ HOST PC(CentOS)
   Pytorch: 1.7
   Github source: detectron
 
+# 📚 Scenario & Function
+  database setup, connect, store
+  store image data in disk
+  interface with Users (with PyQT5)
+  customize detection inference code
+  output: cell sizes, cell quantity
+  
+🔥 Steps(Refer)
 
 # 📷 Result image
 This is detected image..! But it seems quite difficult to distinguish between detected and not.
