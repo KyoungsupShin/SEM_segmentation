@@ -16,7 +16,7 @@ HOST PC(CentOS)
   - customize detection inference code
   - output: cell sizes, cell quantity
   
-🔥 Steps(Refer)
+# 🔥 Steps(Refer)
 
 # 📷 Result image
 This is detected image..! But it seems quite difficult to distinguish between detected and not.
