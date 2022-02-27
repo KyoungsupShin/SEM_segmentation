@@ -5,8 +5,11 @@ HOST PC(CentOS)
 
 # 🎮 Application
   GPU: Nvidia-V100 * 2EA
+  
   PYTHON: 3.6
+  
   Pytorch: 1.7
+  
   Github source: detectron
 
 # 📚 Scenario & Function
